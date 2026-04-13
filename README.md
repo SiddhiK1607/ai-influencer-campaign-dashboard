@@ -57,7 +57,6 @@ This project helps in simplifying influencer campaign management by allowing use
 ##  Project Files
 This repository includes:
 -  `final_.py` – Streamlit dashboard code  
--  Dataset (XLSX file) used for analysis  
 -  Dashboard screenshots  
 -  Dashboard PDF for reference  
 
@@ -75,5 +74,3 @@ This repository includes:
 - Campaign performance tracking
 - Upload custom datasets
 
-
-h Kanade
