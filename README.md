@@ -1,4 +1,3 @@
-
 #  AI Influencer Campaign Dashboard
 
 An interactive Streamlit dashboard to manage, filter, and analyze influencer campaigns using data-driven insights.
@@ -10,9 +9,9 @@ This project helps in simplifying influencer campaign management by allowing use
 
 ---
 
-##  Features
+## Features
 
-###  Dashboard Overview
+### Dashboard Overview
 - Total number of creators
 - Average creator score
 - Total reach (views)
@@ -44,7 +43,23 @@ This project helps in simplifying influencer campaign management by allowing use
 - Streamlit
 - Pandas
 - NumPy
-- Google Sheets (live data)
+- Google Sheets (used as backend data source)
+
+---
+
+## Data Flow
+- Data is fetched from **Google Sheets (live backend)**  
+- Processed and visualized in the Streamlit dashboard  
+- Final campaign results are exported as **CSV files**
+
+---
+
+##  Project Files
+This repository includes:
+- 📄 `final_.py` – Streamlit dashboard code  
+- 📊 Dataset (XLSX file) used for analysis  
+- 🖼 Dashboard screenshots  
+- 📑 Dashboard PDF for reference  
 
 ---
 
@@ -55,9 +70,10 @@ This project helps in simplifying influencer campaign management by allowing use
 
 ---
 
-##  Future Improvements
+## Future Improvements
 - AI-based ranking system
 - Campaign performance tracking
 - Upload custom datasets
 
-Give it a star on GitHub!
+
+h Kanade
