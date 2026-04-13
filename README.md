@@ -56,10 +56,10 @@ This project helps in simplifying influencer campaign management by allowing use
 
 ##  Project Files
 This repository includes:
-- 📄 `final_.py` – Streamlit dashboard code  
-- 📊 Dataset (XLSX file) used for analysis  
-- 🖼 Dashboard screenshots  
-- 📑 Dashboard PDF for reference  
+-  `final_.py` – Streamlit dashboard code  
+-  Dataset (XLSX file) used for analysis  
+-  Dashboard screenshots  
+-  Dashboard PDF for reference  
 
 ---
 
